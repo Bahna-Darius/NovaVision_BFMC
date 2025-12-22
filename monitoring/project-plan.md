@@ -2,7 +2,7 @@
 
 | Working Weeks | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **Start of the week** | 22-Nov | 29-Nov | 6-Dec | 13-Dec | 20-Dec | 27-Dec | 3-Jan | 10-Jan | 17-Jan | 24-Jan | 31-Jan | 7-Feb | 14-Feb | 21-Feb | 28-Feb | 7-Mar | 14-Mar | 21-Mar | 28-Mar | 4-Apr | 11-Apr | 18-Apr | 25-Apr | 2-May | 9-May |
+| **Start of the week** | 30-Nov | 7-Dec | 14-Dec | 21-Dec | 28-Dec | 4-Jan | 11-Jan | 18-Jan | 25-Jan | 1-Feb | 8-Feb | 15-Feb | 22-Feb | 1-Mar | 8-Mar | 15-Mar | 22-Mar | 29-Mar | 5-Apr | 12-Apr | 19-Apr | 26-Apr | 3-May | 10-May | 17-May |
 | **Hardware Improvements** |  |  | Changed the servo | Changed the front differential |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Semaphores (hardware + server integration)** |  |  |  | Set up semaphores with arduino |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Lane keeping (control integration)** |  |  |  | Line detection implemented |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
