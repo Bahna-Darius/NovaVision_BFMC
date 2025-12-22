@@ -15,13 +15,12 @@
 
 ## 🎥 Video Demonstration
 
-▶️ **Click the link below to watch the latest project demonstration video (hosted on GitHub):**
+[![Project Demonstration Video](https://img.icons8.com/fluency/480/video.png)](
+https://github.com/Bahna-Darius/NovaVision_BFMC2026/releases/download/v1.0-demo/VideoReport.mp4
+)
 
-<video width="600" controls>
-  <source src="VideoReport.mp4" type="video/mp4">
-</video>
+> Click the image above to watch the latest project demonstration.
 
-> The video showcases the current behavior of the autonomous system, including perception, control, and navigation logic.
 
 
 ## 📅 Last Update
