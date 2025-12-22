@@ -15,5 +15,6 @@
 | **System integration & full-stack testing** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Architecture** |  | Work in progress |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Documentation & deliverables (reports, videos)** |  |  | Poject status 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Week breaks** |  |  |  | Winter break | Winter break |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
