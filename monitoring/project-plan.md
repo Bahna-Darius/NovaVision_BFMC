@@ -5,7 +5,7 @@
 | **Start of the week** | 30-Nov | 7-Dec | 14-Dec | 21-Dec | 28-Dec | 4-Jan | 11-Jan | 18-Jan | 25-Jan | 1-Feb | 8-Feb | 15-Feb | 22-Feb | 1-Mar | 8-Mar | 15-Mar | 22-Mar | 29-Mar | 5-Apr | 12-Apr | 19-Apr | 26-Apr | 3-May | 10-May | 17-May |
 | **Hardware Improvements** | Clean up differentials | Changed the servo | Changed the front differential |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Semaphores (hardware + server integration)** |  | Set up semaphores with arduino |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Lane keeping (control integration)** |  |  | Line detection implemented |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Lane keeping (control integration)** |  | Line detection research | Line detection implemented |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Turn signals** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Traffic sign detection** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Semaphore recognition & interpretation** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
